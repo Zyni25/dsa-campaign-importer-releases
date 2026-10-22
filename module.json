@@ -1,0 +1,31 @@
+{
+  "id": "dsa-campaign-importer",
+  "title": "DSA Campaign Importer",
+  "description": "Importiert vorbereitete DSA-Kampagneninhalte als Foundry-Journale, ohne vorhandene Einträge zu überschreiben.",
+  "version": "0.1.1",
+  "compatibility": {
+    "minimum": "14",
+    "verified": "14.367"
+  },
+  "authors": [
+    {
+      "name": "Zyni25"
+    }
+  ],
+  "esmodules": [
+    "scripts/importer.js"
+  ],
+  "styles": [
+    "styles/importer.css"
+  ],
+  "languages": [
+    {
+      "lang": "de",
+      "name": "Deutsch",
+      "path": "lang/de.json"
+    }
+  ],
+  "url": "https://github.com/Zyni25/dsa-campaign-importer-releases",
+  "manifest": "https://raw.githubusercontent.com/Zyni25/dsa-campaign-importer-releases/main/module.json",
+  "download": "https://raw.githubusercontent.com/Zyni25/dsa-campaign-importer-releases/main/releases/v0.1.1/dsa-campaign-importer.zip"
+}
