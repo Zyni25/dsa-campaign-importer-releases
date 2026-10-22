@@ -9,7 +9,8 @@ Dieses Repository enthält die **öffentlich herunterladbaren, geprüften Instal
 - Getestete Importfunktionen: Journal anlegen, vorhandenes Journal nicht überschreiben, Fehler bei ungültiger JSON-Datei melden, Standardberechtigung `All Players: None`.
 - Testumgebung: Foundry 14 Build 367, DSA5 8.1.11 auf The Forge.
 - Gegenüber 0.1.0: Importcode unverändert, Installations-/Update-Adressen und Kompatibilitätsangabe ergänzt.
-- **Noch nicht überprüft:** Neuinstallation/Aktualisierung direkt über The Forge anhand dieser Manifest-URL.
+- **In The Forge bestätigt (22.10.2026):** Installation von v0.1.1 über diese Manifest-URL; die Testwelt zeigt v0.1.1 als aktiviert an. Die Import-Schaltfläche funktioniert, ein Doppelimport wird übersprungen und der vorhandene Journaltext bleibt unverändert.
+- **Noch nicht überprüft:** frische Neuinstallation ohne vorherige 0.1.0; zukünftige automatische Aktualisierung von v0.1.1 auf eine neue Version.
 
 ## Installation
 
